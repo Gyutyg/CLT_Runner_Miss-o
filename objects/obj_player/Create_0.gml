@@ -1,2 +1,3 @@
 //Variável de vellocidade
-	vvel	= 1;
+	vvel	= 2;
+	randomise();

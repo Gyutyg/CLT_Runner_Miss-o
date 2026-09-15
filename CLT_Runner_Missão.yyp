@@ -8,7 +8,7 @@
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":0,
+  "defaultScriptType":1,
   "Folders":[
     {"$GMFolder":"","%Name":"Animation Curves","folderPath":"folders/Animation Curves.yy","name":"Animation Curves","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Extensions","folderPath":"folders/Extensions.yy","name":"Extensions","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -46,6 +46,8 @@
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_space","path":"objects/obj_space/obj_space.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"snd_fundo","path":"sounds/snd_fundo/snd_fundo.yy",},},
+    {"id":{"name":"snd_itens","path":"sounds/snd_itens/snd_itens.yy",},},
     {"id":{"name":"spr_batata","path":"sprites/spr_batata/spr_batata.yy",},},
     {"id":{"name":"spr_chocolate","path":"sprites/spr_chocolate/spr_chocolate.yy",},},
     {"id":{"name":"spr_clt","path":"sprites/spr_clt/spr_clt.yy",},},

@@ -9,4 +9,5 @@ show_debug_message(global.rapidez)
 		global.record	=	global.record;
 	}
 	
+	if(global.rapidez >= 8)	global.rapidez = 8
 	

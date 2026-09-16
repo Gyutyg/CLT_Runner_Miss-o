@@ -6,7 +6,7 @@
 	audio_pause_sound(snd_itens);
 	audio_play_sound(snd_itens,0,0);
 //Aumentando os pontos
-	global.pontos	+= 200
+	global.pontos	+= 20000
 	
 //Se colidir com o player, o item reaparece em uma posição aleatória
 	y = random_range(0,20);

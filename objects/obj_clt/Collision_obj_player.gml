@@ -3,4 +3,6 @@
 	
 //Zerando os pontos ao morrer	
 	global.pontos	= 0;
+//Resetando a velocidade	
+	global.rapidez	=	1;
 	

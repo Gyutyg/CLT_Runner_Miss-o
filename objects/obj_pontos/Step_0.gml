@@ -1,3 +1,4 @@
+show_debug_message(global.rapidez)
 //Aumentando o record do player
 	if(global.pontos > global.record)
 	{
@@ -7,3 +8,5 @@
 	{
 		global.record	=	global.record;
 	}
+	
+	
